@@ -124,8 +124,8 @@ Two containers — `app-data` and `audit-logs` — both set to private access. A
 ![Storage Account Created](Storage/bedrock-m3-t1-storage-account-created.png)
 *clearvaultstg01 in UK South under clearvault-workload-rg*
 
-![Public Access Disabled TLS12](Storage/bedrock-m3-t2-public-access-disabled-tls12.png)
-*Blob public access disabled, minimum TLS 1.2 enforced*
+![Public Access Disabled TLS12](Storage/bedrock-m3-t2-annonymous-access-disabled-tls12.png)
+*Blob annonymous access disabled, minimum TLS 1.2 enforced*
 
 ![Network Rules App Subnet](Storage/bedrock-m3-t3-network-rules-app-subnet.png)
 *Storage network rules — app-subnet only, default action Deny*
