@@ -8,6 +8,12 @@ This project establishes a secure baseline environment that all future ClearVaul
 
 ---
 
+<div align="center">
+  <a href="https://medium.com/@tobibabalola21/before-you-deploy-anything-building-a-governed-azure-baseline-from-scratch-95cf385aa32b" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Read_the_Full_Deep_Dive_on-Medium-black?style=for-the-badge" alt="Medium Article" />
+  </a>
+</div>
+
 ## Architecture Overview
 
 - **Management Group** → subscription → platform and workload resource groups
